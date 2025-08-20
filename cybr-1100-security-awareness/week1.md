@@ -4,8 +4,8 @@
 What was covered this week was a good introduction to cyber security. The terminology and key points to why we and how we use cybersecurity. Attacks happen constantly and why we need good strategy to protect from attacks.
 
 **Artifacts:** 
-- Screenshot of MFA setup  
-- Screenshot of GitHub Pages live site  
+ <img width="1852" height="1032" alt="github live" src="https://github.com/user-attachments/assets/7585770f-b519-4f40-a1ae-f7789bc7ba38" />
+
  
 **Reflection:**  
 What I have learned this week is the importance of cybersecurity. There are many different types of attacks and each attack has different strageties to deal with attacks. When
